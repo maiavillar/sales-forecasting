@@ -1,5 +1,3 @@
-# sales-forecasting
-ARIMA time series model to forecast daily retail revenue.
 
 # Daily Revenue Forecasting with ARIMA
 
